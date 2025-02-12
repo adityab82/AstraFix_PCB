@@ -1,0 +1,10 @@
+# KiCad backup and temporary files
+*.bak
+*.tmp
+*.drc
+*.net
+*.sch-bak
+*.kicad_pcb-bak
+*.kicad_mod-bak
+sym-lib-table
+fp-lib-table
